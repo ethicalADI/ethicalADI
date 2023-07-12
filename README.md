@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/bhaumikmaan/bhaumikmaan/blob/main/banner.png" /> </p>
+<p align="center"> <img height="400px" src="https://github.com/ethicalADI/ethicalADI/blob/main/Hacker%20Nation.jpg" /> </p>
 <h1 align="center">Hey there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"height="30px"> I'm <a href="https://in.linkedin.com/in/aditya-kumar-76b58b225">ADITYA KUMAR<a></h1>
 <h4 align="center">
 Third Year Information Technology undergrad from Army Institute of Technology - Pune (2025), with deep interests in Data Structures and Algorithms.
