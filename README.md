@@ -55,3 +55,13 @@ I enjoy learning new things. I have good Problem Solving Skills and love to code
   <img height="35px" width="40px" align="left" alt="Deepak's Discord"  height="35px" width="30px" src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" />
 </a>
 <br/>
+
+<br>
+<br>
+
+## 📊 GitHub Stats:
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethicalADI&theme=merko&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="ethicalADI" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethicalADI&theme=merko&hide_border=false&show_icons=true&locale=en&layout=compact" alt="ethicalADI" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ethicalADI&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="ethicalADI" /></p>
+
