@@ -13,7 +13,7 @@ I enjoy learning new things. I have good Problem Solving Skills and love to code
 
 <h2 align="center">I'm a Competitive Programmer.</h2>
 <p align="center">
-<a href="https://codeforces.com/profile/ethicalADI">
+<a href="https://codeforces.com/profile/ethicalADI" target="_blank">
   <img align="center" alt="Aditya's CodeForces" height="35px" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png" />
 </a>
 <a href="https://www.codechef.com/users/ethical_adi">
