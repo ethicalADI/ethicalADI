@@ -1,4 +1,7 @@
 <p align="center"> <img height="400px" src="https://github.com/ethicalADI/ethicalADI/blob/main/Hacker%20Nation.jpg" /> </p>
+
+[![@Aditya Kumar's Holopin board](https://www.holopin.me/adityarathi1107)](https://holopin.io/@adityarathi1107)
+
 <h1 align="center">Hey there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"height="30px"> I'm <a href="https://in.linkedin.com/in/aditya-kumar-76b58b225">ADITYA KUMAR<a></h1>
 <h4 align="center">
 Third Year Information Technology undergrad from Army Institute of Technology - Pune (2025), with deep interests in Data Structures and Algorithms.
@@ -46,14 +49,6 @@ I enjoy learning new things. I have good Problem Solving Skills and love to code
 </p><br>
 <br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ethicalADI&label=Profile%20views&color=0e75b6&style=flat" alt="ethicalADI" /> </p>
-
-### Join my Discord Server.
-<a href="https://discord.gg/dEpYfeSh">
-  <img height="35px" width="40px" align="left" alt="Deepak's Discord"  height="35px" width="30px" src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" />
-</a>
-<br/>
-
-<br>
 <br>
 
 ## 📊 GitHub Stats:
